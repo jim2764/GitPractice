@@ -32,6 +32,10 @@ namespace GitPractice
 			Console.WriteLine(this.ToString());
 		}
 
+		public void SetGrade(int grade)
+		{
+			this.Grade = grade;
+		}
 		//Yu TODO
 		// 幫我加上一個method, 可以設定此學生的成績, 並且在mina中做測試
 	}
