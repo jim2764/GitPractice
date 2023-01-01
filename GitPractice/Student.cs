@@ -31,5 +31,8 @@ namespace GitPractice
 		{
 			Console.WriteLine(this.ToString());
 		}
+
+		// Jia TODO
+		// 幫我寫一個method, 可以Print出現的成績
 	}
 }
