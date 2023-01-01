@@ -31,5 +31,8 @@ namespace GitPractice
 		{
 			Console.WriteLine(this.ToString());
 		}
+
+		//Shiun TODO
+		// 幫我寫一個Method, 可以更改Gender的值, True->False, 反之亦然 
 	}
 }
