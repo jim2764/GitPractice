@@ -36,7 +36,7 @@ namespace GitPractice
 		{
 			this.Grade = grade;
 		}
-		//Yu TODO //?????.. this yu
+		//Yu TODO //這裡是local yu TEST
 		// 幫我加上一個method, 可以設定此學生的成績, 並且在mina中做測試
 	}
 }
